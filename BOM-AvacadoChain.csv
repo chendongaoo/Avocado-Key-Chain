@@ -1,0 +1,6 @@
+Comment,Designator,Footprint,LCSC,Quantity
+LED,D1,LED_0603_1608Metric,,1
+47,R1,LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder,,1
+L,L1,Antenna_8500000x5500000mm,,1
+220nF,C1,C_0402_1005Metric,,1
+13.56MHz,U1,XQFN-8_L1.6-W1.6-P0.50-BL_NT3H2111W0FHKH,,1
